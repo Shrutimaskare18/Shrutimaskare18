@@ -1,16 +1,54 @@
-## Hi there 👋
+👋 Hi, I'm Shruti Maskare
 
-<!--
-**Shrutimaskare18/Shrutimaskare18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Backend Developer | Python | FastAPI | GenAI (LangChain, RAG)
+💼 3+ years of experience building scalable backend systems and AI-powered applications.
 
-Here are some ideas to get you started:
+👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a backend-focused developer with strong experience in Python and FastAPI, specializing in building RESTful APIs, database-driven applications, and Generative AI systems.
+
+I enjoy designing clean architectures, optimizing APIs, and integrating AI capabilities like LangChain, LangGraph, and RAG pipelines into real-world products.
+
+🛠 Tech Stack
+
+Backend
+
+Python
+FastAPI
+SQLAlchemy
+PostgreSQL, MySQL
+GenAI
+
+LangChain
+LangGraph
+RAG (Retrieval-Augmented Generation)
+OpenAI APIs
+Frontend (Basics)
+
+HTML, CSS, JavaScript
+React
+Other
+
+Git & GitHub
+REST API Design
+JWT Authentication
+Docker (Basics)
+🚀 Projects
+
+🏫 Institute Management System (Backend) Tech: Python, FastAPI, SQLAlchemy, PostgreSQL, LangChain, RAG
+
+Developed REST APIs for managing students, courses, faculty, and fees
+Designed optimized relational database schemas
+Integrated AI-powered natural language query system using RAG
+Implemented validations, authentication, and error handling
+🏥 HealthGoods – Medical Store Management Tech: Python, SQL, HTML/CSS
+
+Inventory and billing management system
+Automated stock tracking and reporting
+📈 What I’m Currently Working On
+
+Advanced FastAPI architecture (clean architecture)
+AI Agents using LangGraph
+Scalable RAG systems for enterprise data
+📫 Contact Me
+📧 Email: shrutimaskare1826@gmail.com
