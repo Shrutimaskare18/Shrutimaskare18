@@ -1,7 +1,6 @@
 👋 Hi, I'm Shruti Maskare
 
-🚀 Backend Developer | Python | FastAPI | GenAI (LangChain, RAG)
-💼 3+ years of experience building scalable backend systems and AI-powered applications.
+🚀 Backend Developer | Python | FastAPI | GenAI (LangChain, RAG) experience building scalable backend systems and AI-powered applications.
 
 👨‍💻 About Me
 
@@ -25,8 +24,7 @@ RAG (Retrieval-Augmented Generation)
 OpenAI APIs
 Frontend (Basics)
 
-HTML, CSS, JavaScript
-React
+HTML
 Other
 
 Git & GitHub
